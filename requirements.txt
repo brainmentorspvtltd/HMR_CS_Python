@@ -1,0 +1,7 @@
+URL for Code	
+https://github.com/brainmentorspvtltd/HMR_CS_Python
+
+Python
+Pycharm - Optional
+pip install pygame
+pip install cx_freeze
